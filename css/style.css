@@ -1,0 +1,303 @@
+/* First page Beginning */
+
+    li {
+        display: inline-block;
+        margin-right: 14px;
+        vertical-align: middle;
+    }
+    
+
+
+nav {
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.active{
+    color: #EE4036;
+    font-size: 22px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+header{
+    margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 80px;
+    
+}
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: bottom;
+}
+a {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+	color: #3d58a6;
+}
+/* First page second section */
+.box{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    margin-left: 30px;
+    
+
+
+    background: #3d58a6
+}
+.number{
+    position: absolute;
+    width: 43px;
+    height: 28px;
+
+
+    font-family: "bpgninomtavruli";
+    font-size: 37px;
+    font-weight: 400;
+    line-height: 44px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 10px;
+}
+h2{
+    position: absolute;
+    width: 57px;
+    height: 17px;
+
+
+    font-family: "bpgninomtavruli";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26.400001525878906px;
+    font-style: normal;
+    text-align: left;
+    color: #3d58a6;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.txt{
+    position: absolute;
+    width: 677px;
+    height: 21px;
+
+
+    font-family: "bpgninomtavruli";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+/* first page footer */
+.bolo{
+    margin-top: 230px;
+    margin-left: 30px;
+    
+    
+}
+.matrix{
+    display: inline-block;
+    width: 270px;
+    height: 210px;
+    margin-bottom: 150px;
+    border-radius: 5px;
+    
+    
+    
+}
+.ddt{
+    display: inline-block;
+    align-items: center;
+    column-gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 50px;
+
+
+}
+.ram{
+    display: inline-block;
+    width: 930px;
+    height: 360px;
+    
+    
+    font-family: "bpgingiriarial";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+    margin-left: 15px;
+    
+}
+.lurji{
+    margin-top: 40px;
+}
+.fb{
+    
+    width: 14px;
+    height: 30px;
+
+
+background: #3d58a6
+}
+.yt{
+    
+    width: 24.8px;
+    height: 30px;
+
+
+background: #3d58a6
+}
+/* page 2 */
+.s-1 {
+	margin-bottom: 124px;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+    padding-left: 100px;
+}
+.s-2 {
+	margin-bottom: 80px;
+}
+
+
+h2 {
+	margin-bottom: 32px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	
+}
+
+.card {
+	width: 570px;
+	height: 225px;
+	background-color: lightgray;
+	padding: 18px 20px;
+	display: inline-block;
+}
+
+h4 {
+	margin-bottom: 18px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	color: #3d58a6;
+
+}
+
+img {
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: middle;
+
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #333333;
+	display: inline-block;
+	width: 356px;
+	vertical-align: middle;
+	line-height: 24px;
+}
+
+
+.s-2 {
+	margin-bottom: 80px;
+}
+
+
+h3 {
+	margin-left: 100px;
+    margin-bottom: 40px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+    width: 380px;
+    height: 22px;
+
+
+    font-family: "roboto-regular";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.80000114440918px;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+	
+}
+
+.card {
+	width: 570px;
+	height: 225px;
+	background-color: lightgray;
+	padding: 18px 20px;
+	display: inline-block;
+}
+
+h4 {
+	margin-bottom: 18px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	color: #3d58a6;
+
+}
+
+img {
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: middle;
+
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #333333;
+	display: inline-block;
+	width: 356px;
+	vertical-align: middle;
+	line-height: 24px;
+}
+
+
+.card-left {
+	margin-right: 26px;
+}
+.scpg{
+    display: inline-block;
+    margin-left: 100px;
+}
+/* Third page */
+.p3{
+    width: 1366px;
+    height: 570px;
+    background-color: #e6e6e6;
+    margin-bottom: 147px;
+
+    
+    
+}
+h6{
+    padding-left: 97px;
+    font-size: 22px;
+    color: blue;
+    padding-bottom: 11px;
+    padding-top: 62px;
+}
+pre{
+    padding-left: 33px;
+}
+.info{
+    display: inline-block;
+}
+
+.map{
+    display: inline-block;
+}
